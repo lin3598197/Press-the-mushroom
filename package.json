@@ -1,0 +1,18 @@
+{
+  "name": "press-the-mushroom",
+  "version": "1.0.0",
+  "description": "一個只有巨大棕色蘑菇按鈕的極簡頁面。上方保留標題與計數器，蘑菇按鈕維持正方形並盡可能填滿視窗剩餘空間。",
+  "type": "module",
+  "main": "script.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "vite": "^7.1.2"
+  }
+}
